@@ -2,7 +2,7 @@
 ## 2025.2
 
 > *"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window.."* <br>
-> **Charles de Gaulle**, Brigade general and founder of the Fifth French Republic, circa 1950.
+> **William Faulkner**, Nobel laureate in literature, circa 1950.
 
 Welcome to the GitHub repository for the BA Thesis Seminar at FGV-RI. This space houses all course materials, schedules, resources, and student deliverables for the 2025-2 semester.
 
@@ -14,10 +14,14 @@ Welcome to the GitHub repository for the BA Thesis Seminar at FGV-RI. This space
 
 **Instructor:** Cedric Antunes
 
+**Class Time:** Tue, 07:00-09:00 am BRT
+
+**Room**: 
+
 **Term:** Second Semester, 2025
 
 **Description:**
-This seminar guides you through the entire thesis process, from refining your research question to delivering a polished final manuscript. We combine mini-lectures, student presentations, peer feedback, and office hours to build both your research skills and writing confidence.
+This seminar guides you through the entire thesis process, from refining your research question to delivering a polished final manuscript. We will combine student presentations, peer feedback, and office hours to build both your research skills and writing confidence.
 
 ---
 
@@ -56,24 +60,7 @@ This seminar guides you through the entire thesis process, from refining your re
 
 ---
 
-## Weekly Workflow
-
-1. **First Hour:** Mini-lecture or student presentations  
-2. **Second Hour:** Lab work, Q&A, or peer feedback  
-3. **Last 30 minutes:** In-class office hours (individual or collective, per session schedule)
-
-Refer to the syllabus for specific topics, presenters, and reading assignments.
-
----
-
-## Assignments & Submissions
-
-- **Draft Submissions:** Upload clean, cohesive draft sections to `student-submissions/draft1/` and `draft2/` by the deadlines in the syllabus.  
-- **Presentations:** Prepare an 8-minute presentation (plus Q&A) according to the schedule. Slides can be stored in `examples/` if you wish to share templates.
-
----
-
-## Alumni Panel & Masterclasses
+## Walking on the Shoulder of Giants
 
 We will host sessions with former students who wrote outstanding theses. Check the `alumni-panel/` folder for bios and guided question prompts.
 
@@ -82,7 +69,7 @@ We will host sessions with former students who wrote outstanding theses. Check t
 ## Office Hours
 
 - **Individual Office Hours:** Last 30 minutes of most sessions (see syllabus for exceptions).  
-- **Final Collective Forum:** A Madisonian Forum-style town hall where you can bring questions for public discussion.
+- **Final Collective Forum:** A Periclean forum-style town hall where you can bring questions for public discussion.
 
 ---
 
@@ -90,7 +77,7 @@ We will host sessions with former students who wrote outstanding theses. Check t
 
 - **Writing Center:** FGV Writing Support  
 - **Citation Guide:** APA 7th Edition Cheat Sheet  
-- **Data Repositories:** CEPESP API examples in `examples/`
+- **Data Repositories:** World Bank API examples in `examples/`
 
 ---
 
