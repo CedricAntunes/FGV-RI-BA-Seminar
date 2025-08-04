@@ -1,4 +1,8 @@
-# BA Thesis Seminar Repository
+# FGV-RI BA Thesis Seminar Repository
+## 2025.2
+
+> *"Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it. Then write. If it's good, you'll find out. If it's not, throw it out of the window.."* <br>
+> **Charles de Gaulle**, Brigade general and founder of the Fifth French Republic, circa 1950.
 
 Welcome to the GitHub repository for the BA Thesis Seminar at FGV-RI. This space houses all course materials, schedules, resources, and student deliverables for the 2025-2 semester.
 
