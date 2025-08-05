@@ -16,7 +16,7 @@ Welcome to the GitHub repository for the BA Thesis Seminar at FGV-RI. This space
 
 **Class Time:** Tue, 07:00-09:00 am BRT
 
-**Room**: 
+**Room**: 601 (Itapeva 474, 6th floor)
 
 **Term:** Second Semester, 2025
 
